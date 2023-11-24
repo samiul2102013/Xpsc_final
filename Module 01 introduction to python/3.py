@@ -1,0 +1,11 @@
+a=input()
+b=input()
+c=input()
+a=int(a)
+b=int(b)
+c=int(c)
+sum=0
+sum+=a
+sum+=b
+sum+=c
+print(sum)
