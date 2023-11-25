@@ -1,0 +1,9 @@
+numbers=[2,6,4,7,9,44,55,2,4,7,66]
+number_set=set(numbers)
+print(number_set)
+number_set.add(1)
+print(number_set)
+A={1,2,5,6}
+B={1,2,3,4,5,6,7}
+print(A&B)
+print(A|B)
